@@ -68,9 +68,10 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 **Skills:** Flutter · Dart · Git · GitHub · OOP · Clean Architecture · SOLID · State Management  
 
 ---
-** Youtube Educator | GOCODE** 
-### ![YouTube]([https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg](https://yt3.googleusercontent.com/PE4tBWq6bQP5kjrm3sHC4fhSSuEMeFCbvOAl984j_guWg2C8mQ_m2ipwSPKhFhQsBthI3bi-aQg=s160-c-k-c0x00ffffff-no-rj)) YouTube Channel -  [GOCODE](https://www.youtube.com/@AHDeveloper)
-**Content Creator | Founder**  
+**Youtube Educator - **Content Creator | Founder** 
+### ![YouTube](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg) 
+[GOCODE](https://www.youtube.com/@AHDeveloper_)
+
 📅 Jul 2020 - Present · Remote  
 
 **Highlights:**  
@@ -125,7 +126,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** [Ahmed Alaayq](https://www.linkedin.com/in/ahmed-alaayq-21a55b279/)  
-- ▶️ **YouTube:** [GOCODE](https://www.youtube.com/@AHDeveloper)  
+- ▶️ **YouTube:** [GOCODE](https://www.youtube.com/@AHDeveloper_)  
 - 📧 **Email:** [ahmed.alaayq@gmail.com](mailto:ahmed.alaayq@gmail.com)  
 - 📘 **Facebook:** [Ahmed Emad](https://www.facebook.com/ahmed.emad.90470)  
 
