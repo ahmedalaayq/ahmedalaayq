@@ -177,8 +177,6 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=dark)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=ahmedalaayq&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&layout=compact&theme=dark)  
 
 ---
 
