@@ -42,7 +42,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 🏢 Work & Volunteer Experience
 
-### ![GDG On Campus - Benha University](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg) GDG On Campus - Benha University
+### <img src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg" width="120"> GDG On Campus - Benha University
 [Community Page](https://gdg.community.dev/gdg-on-campus-benha-university-benha-egypt)  
 
 **Vice Head Flutter | Flutter Instructor**  
@@ -68,10 +68,15 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
-### ![Skills Area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s) Skills Area
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
+</p>
+
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s" width="120"> Skills Area
+[LinkedIn](https://www.linkedin.com/company/skills-area1)  
+
 **Flutter Instructor**  
 📅 Jun 2025 - Nov 2025 · Part-Time · Remote  
-[LinkedIn](https://www.linkedin.com/company/skills-area1)  
 
 **Responsibilities:**  
 - Delivered hands-on Flutter & Dart training for beginner → intermediate learners  
@@ -83,10 +88,14 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
-### ![YouTube](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg) YouTube Channel - GOCODE
-**Content Creator | Founder**  
-📅 Jul 2020 - Present · Remote  
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
+</p>
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="120"> YouTube Channel - GOCODE
 [GOCODE Channel](https://www.youtube.com/@AHDeveloper_)  
+
+📅 Jul 2020 - Present · Remote  
 
 **Highlights:**  
 - Logic-first teaching approach  
@@ -96,6 +105,10 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 **Skills:** Dart · Flutter · Git · GitHub · Clean Architecture · SOLID · State Management · OOP · C++ · Visual Basic  
 
 ---
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
+</p>
 
 ### 💼 Freelance Experience
 **Freelance Flutter Developer**  
@@ -108,7 +121,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
 </p>
 
 ## 💡 What I Do
@@ -123,7 +136,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
 </p>
 
 ## 📂 Real-World Projects
@@ -137,29 +150,19 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
 </p>
 
 ## 🛠 Skills & Tools
 
 <div align="center">
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,gitlab,sentry,androidstudio,vscode,figma,postman" height="50" />
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
 </p>
 
 ## 🌐 Connect With Me
