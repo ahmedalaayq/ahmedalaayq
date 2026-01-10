@@ -1,28 +1,28 @@
 # 👋 Hi There!
 
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Ahmed+Alaayq;Flutter+Developer;Instructor+%26+Mentor;Community+Volunteer" alt="Typing SVG" />
-</h1>
+</div>
 
 💙 **Flutter Developer | Instructor | Mentor | Community Volunteer**  
 Building **clean, scalable, and high-performance mobile applications** with a strong focus on **UI/UX, architecture, and real-world impact**.
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 🚀 Summary
 
 I’m Ahmed Alaayq — a passionate Flutter Developer who doesn’t just write code, but **builds products, teaches people, and contributes to tech communities**.  
 My mission is to create meaningful mobile experiences, mentor the next generation of developers, and continuously grow as a professional.
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 👨‍💻 About Me
 
@@ -34,11 +34,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 - 🎯 Obsessed with **performance, UI details, animations, and maintainable code**  
 - 🌍 Open to **remote roles, freelancing, collaborations, and speaking opportunities**
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 🏢 Work & Volunteer Experience
 
@@ -66,11 +66,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 **Skills:** Dart · Flutter · Git · OOP  
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s" width="120"> Skills Area
 [LinkedIn](https://www.linkedin.com/company/skills-area1)  
@@ -86,11 +86,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 **Skills:** Flutter · Dart · Git · GitHub · OOP · Clean Architecture · SOLID · State Management  
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="120"> YouTube Channel - GOCODE
 [GOCODE Channel](https://www.youtube.com/@AHDeveloper_)  
@@ -104,11 +104,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 **Skills:** Dart · Flutter · Git · GitHub · Clean Architecture · SOLID · State Management · OOP · C++ · Visual Basic  
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ### 💼 Freelance Experience
 **Freelance Flutter Developer**  
@@ -118,11 +118,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 - Delivered apps end-to-end from **design → development → deployment**  
 - Focused on **UI/UX, animations, and scalable architecture**  
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 💡 What I Do
 
@@ -133,11 +133,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 - 📦 Deliver **end-to-end solutions** from idea → design → deployment  
 - 🎓 Teach, mentor, and support developers through **training programs**
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 📂 Real-World Projects
 
@@ -147,11 +147,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 - 🚀 **SpaceX App** – Live missions and launch details  
 - 🚚 **Full Delivery System** – Customer app, delivery driver app & shop owner dashboard  
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 🛠 Skills & Tools
 
@@ -159,32 +159,46 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,gitlab,sentry,androidstudio,vscode,figma,postman" height="50" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" width="80%" />
-</p>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 🌐 Connect With Me
 
-- 💼 **LinkedIn:** [Ahmed Alaayq](https://www.linkedin.com/in/ahmed-alaayq-21a55b279/)  
-- ▶️ **YouTube:** [GOCODE](https://www.youtube.com/@AHDeveloper_)  
-- 📧 **Email:** [ahmed.alaayq@gmail.com](mailto:ahmed.alaayq@gmail.com)  
-- 📘 **Facebook:** [Ahmed Emad](https://www.facebook.com/ahmed.emad.90470)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alaayq-21a55b279/)  
+- ▶️ [YouTube](https://www.youtube.com/@AHDeveloper_)  
+- 📧 [Email](mailto:ahmed.alaayq@gmail.com)  
+- 📘 [Facebook](https://www.facebook.com/ahmed.emad.90470)  
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=dark)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=dark&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&layout=compact&theme=dark" />
+</div>
 
----
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
+</div>
+<br>
 
 ## 🫰 Views & Followers
 
-![GitHub Followers](https://img.shields.io/github/followers/ahmedalaayq?style=social)  
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=ahmedalaayq&color=blue)  
+<div align="center">
+  <img src="https://img.shields.io/github/followers/ahmedalaayq?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedalaayq&color=blue" />
+</div>
 
----
-
-⭐ *Always learning. Always building. Always teaching. Always giving back.*
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab" />
+</div>
