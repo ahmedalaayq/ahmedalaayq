@@ -1,79 +1,142 @@
-# 🚀 Ahmed Alaayq | Flutter Developer
+# 👋 Hi There!
 
-💙 Passionate **Flutter Developer** focused on building **clean, scalable, and high-performance mobile applications**  
-📱 Cross-Platform Apps using **Flutter & Dart**  
-🧠 Strong understanding of **State Management, Clean Architecture, UI/UX**, and real-world app logic  
-🌍 Open to opportunities, freelancing, and continuous learning
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Ahmed+Alaayq;Flutter+Developer;Instructor+%26+Mentor;Community+Volunteer" alt="Typing SVG" />
+</h1>
+
+💙 **Flutter Developer | Instructor | Mentor | Community Volunteer**
+Building **clean, scalable, and high-performance mobile applications** with a strong focus on **UI/UX, architecture, and real-world impact**.
+
+---
+
+## 🚀 Personal Brand Statement
+
+I’m Ahmed Alaayq — a passionate Flutter Developer who doesn’t just write code, but **builds products, teaches people, and contributes to tech communities**.
+My mission is to create meaningful mobile experiences, mentor the next generation of developers, and continuously grow as a professional.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Flutter Developer**
-- 🌱 Deepening my knowledge in **Advanced Flutter, State Management, and Architecture**
-- 🎯 Interested in **UI/UX details, animations, and performance optimization**
-- 🧩 Experienced in building **multi-screen apps, task managers, media players, and real projects**
-- 💬 Ask me about **Flutter, Dart, Cross-Platform Development, UI Logic**
+* 📱 **Flutter Developer** with **3+ years of hands-on experience** in production apps
+* 🎓 **Instructor & Mentor** in Flutter tracks, bootcamps, and workshops
+* 🤝 **Active Volunteer** in tech communities and student initiatives
+* 🧠 Strong knowledge of **Clean Architecture, MVVM, Bloc, and scalable app design**
+* 🎯 Obsessed with **performance, UI details, animations, and maintainable code**
+* 🌍 Open to **remote roles, freelancing, collaborations, and speaking opportunities**
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 Teaching, Mentoring & Community Experience
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahmed.emad.90470)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077F2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alaayq-21a55b279/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AHDeveloper_)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.alaayq@gmail.com)
+### 🟢 GDG on Campus (Benha)
+
+* 🎤 **Flutter Instructor & Mentor** for student developers
+* 🧑‍🏫 Delivered sessions covering:
+
+  * Flutter Fundamentals & Dart Basics
+  * Widgets, Layouts & Responsive UI
+  * State Management & App Logic
+  * Firebase Integration & Real-World Practices
+* 👥 Mentored students during hands-on labs and real projects
+* 🤝 Helped organize and support technical events and bootcamps
+
+### 🟣 Bootcamps & Workshops
+
+* 🚀 Instructor in **Flutter Bootcamps** focused on real-world development
+* 🧩 Helped learners move from **beginner → production-ready developers**
+* 🛠 Guided participants through:
+
+  * Clean Architecture implementation
+  * Project structuring & best practices
+  * Debugging, performance, and UI polishing
+
+### 🔵 Volunteering & Mentorship
+
+* 🌱 Volunteer mentor for junior developers and students
+* 🧭 Provided guidance on:
+
+  * Career paths in mobile development
+  * Code reviews & project feedback
+  * Learning roadmaps and self-improvement
+
+---
+
+## 💡 What I Do
+
+* 🚀 Develop **high-performance cross-platform mobile apps** using Flutter & Dart
+* 🧱 Apply **Clean Architecture, MVVM, Bloc**, and scalable patterns
+* 🔥 Integrate **Firebase (Auth, Firestore, FCM)** and REST APIs
+* 🎨 Build **modern UI/UX**, animations, and responsive layouts
+* 📦 Deliver **end-to-end solutions** from idea → design → deployment
+* 🎓 Teach, mentor, and support developers through **training programs**
+
+---
+
+## 📂 Real-World Projects
+
+I’ve worked on multiple production-level mobile applications across different domains:
+
+* 🧠 **Etma2n** – Mental health & well-being mobile application
+* 🦷 **Dental Clinic App** – Doctors & patients management system
+* 🧹 **Cleaning Service App** – Service booking & operations management
+* 🛍 **E-Commerce App** – Clothes store with products, cart, and orders
+* 🚀 **SpaceX App** – Live missions and launch details
+* 🚚 **Full Delivery System** – Customer app, delivery driver app & shop owner dashboard
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-### 🚀 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+### 📱 Mobile Development
 
-### 🌐 Web & Backend Basics
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white)
+* Flutter • Dart
+* Firebase (Auth, Firestore, FCM)
+
+### 🧱 Architecture & State Management
+
+* Clean Architecture
+* MVVM
+* Bloc / Provider / Streams
 
 ### 🎨 UI / UX & Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)
+
+* Figma • Adobe XD • Canva
 
 ### ⚙️ Other Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
+* Git & GitHub
+* REST APIs & Third-Party SDKs
+* Java • C++ • Swift (Basics)
+* Sentry (Crash Reporting)
 
 ---
 
 ## 🧠 What I Focus On in Flutter
 
-- ✅ Clean Architecture & Separation of Concerns  
-- ✅ State Management (Provider / Streams / Controllers)  
-- ✅ Responsive UI for Mobile, Tablet & Web  
-- ✅ Performance & Memory Optimization  
-- ✅ Pixel-Perfect UI & Smooth Animations  
+* ✅ Clean Architecture & Separation of Concerns
+* ✅ Scalable State Management
+* ✅ Responsive UI (Mobile • Tablet • Web)
+* ✅ Performance & Memory Optimization
+* ✅ Pixel-Perfect UI & Smooth Animations
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 **LinkedIn**: [https://www.linkedin.com/in/ahmed-alaayq-21a55b279/](https://www.linkedin.com/in/ahmed-alaayq-21a55b279/)
+* ▶️ **YouTube**: [https://www.youtube.com/@AHDeveloper](https://www.youtube.com/@AHDeveloper)_
+* 📧 **Email**: [ahmed.alaayq@gmail.com](mailto:ahmed.alaayq@gmail.com)
+* 📘 **Facebook**: [https://www.facebook.com/ahmed.emad.90470](https://www.facebook.com/ahmed.emad.90470)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedalaayq&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalaayq\&theme=dark)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ahmedalaayq\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq\&layout=compact\&theme=dark)
 
 ---
 
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=ahmedalaayq&icon=3&color=6)](https://visitcount.itsvg.in)
-
----
-
-⭐ *Always learning. Always building. Always improving.*
+⭐ *Always learning. Always building. Always teaching. Always giving back.*
