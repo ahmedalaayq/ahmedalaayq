@@ -9,7 +9,7 @@ Building **clean, scalable, and high-performance mobile applications** with a st
 
 ---
 
-## 🚀 Personal Brand Statement
+## 🚀 Summary
 
 I’m Ahmed Alaayq — a passionate Flutter Developer who doesn’t just write code, but **builds products, teaches people, and contributes to tech communities**.  
 My mission is to create meaningful mobile experiences, mentor the next generation of developers, and continuously grow as a professional.
@@ -54,8 +54,8 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
-### ![Skills Area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s) Skills Area  
 **Flutter Instructor**  
+### ![Skills Area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s) 
 📅 Jun 2025 - Nov 2025 · Part-Time · Remote  
 [LinkedIn](https://www.linkedin.com/company/skills-area1)  
 
@@ -68,8 +68,8 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 **Skills:** Flutter · Dart · Git · GitHub · OOP · Clean Architecture · SOLID · State Management  
 
 ---
-
-### ![YouTube]([https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg](https://yt3.googleusercontent.com/PE4tBWq6bQP5kjrm3sHC4fhSSuEMeFCbvOAl984j_guWg2C8mQ_m2ipwSPKhFhQsBthI3bi-aQg=s160-c-k-c0x00ffffff-no-rj)) YouTube Channel - GOCODE
+** Youtube Educator | GOCODE** 
+### ![YouTube]([https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg](https://yt3.googleusercontent.com/PE4tBWq6bQP5kjrm3sHC4fhSSuEMeFCbvOAl984j_guWg2C8mQ_m2ipwSPKhFhQsBthI3bi-aQg=s160-c-k-c0x00ffffff-no-rj)) YouTube Channel -  [GOCODE](https://www.youtube.com/@AHDeveloper)
 **Content Creator | Founder**  
 📅 Jul 2020 - Present · Remote  
 
