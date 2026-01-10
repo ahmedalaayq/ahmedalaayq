@@ -9,12 +9,20 @@ Building **clean, scalable, and high-performance mobile applications** with a st
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
+
 ## 🚀 Summary
 
 I’m Ahmed Alaayq — a passionate Flutter Developer who doesn’t just write code, but **builds products, teaches people, and contributes to tech communities**.  
 My mission is to create meaningful mobile experiences, mentor the next generation of developers, and continuously grow as a professional.
 
 ---
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -28,10 +36,15 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
+
 ## 🏢 Work & Volunteer Experience
 
 ### ![GDG On Campus - Benha University](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg) GDG On Campus - Benha University
-[Community Page](https://gdg.community.dev/gdg-on-campus-benha-university-benha-egypt)
+[Community Page](https://gdg.community.dev/gdg-on-campus-benha-university-benha-egypt)  
+
 **Vice Head Flutter | Flutter Instructor**  
 📅 Sep 2025 - Present · Hybrid  
 📍 Benha University, Egypt  
@@ -55,8 +68,8 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
+### ![Skills Area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s) Skills Area
 **Flutter Instructor**  
-### ![Skills Area](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJf12Dj2U00zeerP1TSh_y7j_itB18OojsNA&s) 
 📅 Jun 2025 - Nov 2025 · Part-Time · Remote  
 [LinkedIn](https://www.linkedin.com/company/skills-area1)  
 
@@ -69,11 +82,11 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 **Skills:** Flutter · Dart · Git · GitHub · OOP · Clean Architecture · SOLID · State Management  
 
 ---
-**Youtube Educator - **Content Creator | Founder** 
-### ![YouTube](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg) 
-[GOCODE](https://www.youtube.com/@AHDeveloper_)
 
+### ![YouTube](https://t3.ftcdn.net/jpg/06/34/31/96/360_F_634319630_txtgmPLEEQ8o4zaxec2WKrLWUBqdBBQn.jpg) YouTube Channel - GOCODE
+**Content Creator | Founder**  
 📅 Jul 2020 - Present · Remote  
+[GOCODE Channel](https://www.youtube.com/@AHDeveloper_)  
 
 **Highlights:**  
 - Logic-first teaching approach  
@@ -94,6 +107,10 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
+
 ## 💡 What I Do
 
 - 🚀 Develop **high-performance cross-platform mobile apps** using Flutter & Dart  
@@ -105,9 +122,13 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
+
 ## 📂 Real-World Projects
 
-- 🦷 **Shafaf App** – Emergency and smart report system with GeoLocator Feature  
+- 🦷 **Shafaf App** – Emergency & smart report system with GeoLocator  
 - 🧹 **Cleaning Service App** – Service booking & operations management  
 - 🛍 **E-Commerce App** – Clothes store with products, cart, and orders  
 - 🚀 **SpaceX App** – Live missions and launch details  
@@ -115,14 +136,31 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
-## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
 
-- **Mobile Development:** Flutter • Dart • Firebase  
-- **Architecture & State Management:** Clean Architecture, MVVM, Bloc, Provider, Streams  
-- **UI/UX & Design:** Figma • Adobe XD • Canva  
-- **Other Skills:** Git & GitHub • REST APIs • Java • C++ • Swift (Basics) • Sentry  
+## 🛠 Skills & Tools
+
+<div align="center">
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=sentry" alt="Sentry" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+</div>
 
 ---
+
+<p align="center">
+  <img src="https://i.gifer.com/origin/8d/8d9b62a3f4b4c7c6a4d2a2c3b7c0f6f6.gif" alt="Animated Separator" width="80%" />
+</p>
 
 ## 🌐 Connect With Me
 
