@@ -31,6 +31,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ## 🏢 Work & Volunteer Experience
 
 ### ![GDG On Campus - Benha University](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg) GDG On Campus - Benha University
+[Community Page](https://gdg.community.dev/gdg-on-campus-benha-university-benha-egypt)
 **Vice Head Flutter | Flutter Instructor**  
 📅 Sep 2025 - Present · Hybrid  
 📍 Benha University, Egypt  
