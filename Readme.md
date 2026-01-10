@@ -26,7 +26,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 👨‍💻 About Me
 
-- 📱 **Flutter Developer** with **3+ years** of hands-on experience in production apps  
+- 📱 **Flutter Developer** with **2+ years** of hands-on experience in production apps  
 - 🎓 **Instructor & Mentor** in Flutter tracks, bootcamps, and workshops  
 - 🤝 **Active Volunteer** in tech communities and student initiatives  
 - 💻 **Freelancer** with **2 years of experience** building real-world apps  
