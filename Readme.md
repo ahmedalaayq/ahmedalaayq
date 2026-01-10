@@ -180,10 +180,10 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=radical&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&layout=compact&theme=radical&hide_border=false" />
-</div>
+![GitHub followers](https://img.shields.io/github/followers/ahmedalaayq?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/ahmedalaayq?style=social)
+![GitHub repo count](https://img.shields.io/github/repo-count/ahmedalaayq?style=social)
+
 
 
 ## 🫰 Views & Followers
