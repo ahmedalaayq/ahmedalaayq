@@ -30,7 +30,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 🏢 Work & Volunteer Experience
 
-### ![GDG On Campus - Benha University](https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/chapter_banners/463836959_867661255487917_7192371554840820823_n_LZTrnDG.jpg) GDG On Campus - Benha University
+### ![GDG On Campus - Benha University](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-goog/contentbuilder/GDG-Lockup-1Line-Black_vMWBFT9.svg) GDG On Campus - Benha University
 **Vice Head Flutter | Flutter Instructor**  
 📅 Sep 2025 - Present · Hybrid  
 📍 Benha University, Egypt  
@@ -69,7 +69,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ---
 
-### ![YouTube](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg) YouTube Channel - GOCODE
+### ![YouTube]([https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg](https://yt3.googleusercontent.com/PE4tBWq6bQP5kjrm3sHC4fhSSuEMeFCbvOAl984j_guWg2C8mQ_m2ipwSPKhFhQsBthI3bi-aQg=s160-c-k-c0x00ffffff-no-rj)) YouTube Channel - GOCODE
 **Content Creator | Founder**  
 📅 Jul 2020 - Present · Remote  
 
