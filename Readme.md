@@ -141,7 +141,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 📂 Real-World Projects
 
-- 🦷 **Shafaf App** – Emergency & smart report system with GeoLocator  
+- 💚 **Shafaf App** – Emergency & smart report system with GeoLocator  
 - 🧹 **Cleaning Service App** – Service booking & operations management  
 - 🛍 **E-Commerce App** – Clothes store with products, cart, and orders  
 - 🚀 **SpaceX App** – Live missions and launch details  
