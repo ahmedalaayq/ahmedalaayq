@@ -181,15 +181,10 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=dark&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedalaayq&theme=radical&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalaayq&layout=compact&theme=radical&hide_border=false" />
 </div>
 
-<br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" />
-</div>
-<br>
 
 ## 🫰 Views & Followers
 
