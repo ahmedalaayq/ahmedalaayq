@@ -46,7 +46,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 [Community Page](https://gdg.community.dev/gdg-on-campus-benha-university-benha-egypt)  
 
 **Vice Head Flutter | Flutter Instructor**  
-📅 Sep 2025 - Present · Hybrid  
+📅 Sep 2025 - Jan 2026 · Hybrid  
 📍 Benha University, Egypt  
 
 **Responsibilities:**  
