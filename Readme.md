@@ -167,7 +167,7 @@ My mission is to create meaningful mobile experiences, mentor the next generatio
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-emad-a342462a1)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alaayq-21a55b279)  
 - ▶️ [YouTube](https://www.youtube.com/@AHDeveloper_)  
 - 📧 [Email](mailto:ahmed.alaayq@gmail.com)  
 - 📘 [Facebook](https://www.facebook.com/ahmed.emad.90470)  
